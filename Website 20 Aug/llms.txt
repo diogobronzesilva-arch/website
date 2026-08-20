@@ -1,0 +1,26 @@
+# Diogo Silva
+
+> Personal site of Diogo Silva, a B2B software salesperson based in Portugal. Senior Account Executive at Coverflex, working with Portuguese companies on compensation, employee benefits and the changing shape of work. Writes about sales, artificial intelligence in day-to-day work, philosophy and faith. Photographs family, faith and memory under the name Bronze Art.
+
+The site is hand-written static HTML and CSS: no JavaScript, no analytics, no tracking. Notes are published irregularly, in English and in European Portuguese. Contact: hello@diogobronzesilva.com
+
+## Notes
+
+- [Escassez de trabalhadores qualificados](https://diogobronzesilva.com/notes/escassez-de-trabalhadores-qualificados/): Em português. Porque falta mão de obra qualificada em Portugal: natalidade em quebra, um sistema de ensino desalinhado com a procura real, e uma cultura que tornou o risco de empreender menos atractivo. Publicado a 8 de Julho de 2022.
+- [Bitcoin | The Fairy Tale](https://diogobronzesilva.com/notes/bitcoin-the-fairy-tale/): Why no currency removes the imperfection built into human exchange, because the imperfection was never in the ledger. Separates Bitcoin as an asset from Bitcoin as a political promise. Published 20 June 2022.
+- [Panem et circenses](https://diogobronzesilva.com/notes/panem-et-circenses/): On the selectivity of online outrage, and why moral performance on social media rewards looking right over being right. Published 25 February 2022.
+- [The Reign of Quantities](https://diogobronzesilva.com/notes/the-reign-of-quantities/): Quality asks for an artisan and time. Quantity asks for neither, which is exactly the trade modern production keeps making. Published 10 December 2021.
+- [Efficiency, the One Ring to rule them all](https://diogobronzesilva.com/notes/efficiency-the-one-ring/): Efficiency has no natural ceiling. Left to itself it stops serving us and starts being served. Published 22 November 2021.
+
+## Pages
+
+- [Home](https://diogobronzesilva.com/): Who Diogo Silva is, what he does at Coverflex, and how he uses AI in sales work.
+- [Notes index](https://diogobronzesilva.com/notes/): All essays, newest first.
+- [Contact](https://diogobronzesilva.com/contact/): Email address and links.
+- [RSS feed](https://diogobronzesilva.com/feed.xml): Every note, in RSS 2.0.
+
+## Elsewhere
+
+- [Bronze Art](https://bronzeart.pt): Diogo Silva's photography project. Classical, documentary photography of family, faith, and what gets handed down between generations.
+- [LinkedIn](https://www.linkedin.com/in/diogosilvae/): Professional profile, B2B SaaS sales in Portugal.
+- [Instagram](https://www.instagram.com/bronzeart.pt/): Bronze Art photography.

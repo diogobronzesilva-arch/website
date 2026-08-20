@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Diogo Silva — RSS feed.
+  Hand-maintained, like the rest of the site. To publish a new note,
+  add one <item> at the top (newest first) and update <lastBuildDate>.
+  Dates use RFC 822 format: e.g. Wed, 19 Aug 2026 00:00:00 +0000
+-->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diogo Silva — Notes</title>
+    <link>https://diogobronzesilva.com/notes/</link>
+    <atom:link href="https://diogobronzesilva.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Notes on sales, AI, philosophy, theology, photography and family.</description>
+    <language>en</language>
+    <managingEditor>hello@diogobronzesilva.com (Diogo Silva)</managingEditor>
+    <lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0000</lastBuildDate>
+
+    <item>
+      <title>Escassez de trabalhadores qualificados</title>
+      <link>https://diogobronzesilva.com/notes/escassez-de-trabalhadores-qualificados/</link>
+      <guid>https://diogobronzesilva.com/notes/escassez-de-trabalhadores-qualificados/</guid>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <description>Natalidade em quebra, um sistema de ensino desalinhado com a procura real, e uma cultura que tornou o risco de empreender menos atractivo.</description>
+      <author>hello@diogobronzesilva.com (Diogo Silva)</author>
+    </item>
+
+    <item>
+      <title>Bitcoin | The Fairy Tale</title>
+      <link>https://diogobronzesilva.com/notes/bitcoin-the-fairy-tale/</link>
+      <guid>https://diogobronzesilva.com/notes/bitcoin-the-fairy-tale/</guid>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <description>No currency removes the imperfection built into human exchange, because the imperfection was never in the ledger.</description>
+      <author>hello@diogobronzesilva.com (Diogo Silva)</author>
+    </item>
+
+    <item>
+      <title>Panem et circenses</title>
+      <link>https://diogobronzesilva.com/notes/panem-et-circenses/</link>
+      <guid>https://diogobronzesilva.com/notes/panem-et-circenses/</guid>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <description>The crowd applauds one side or the other, holding a banner because that's easier than finding out what's true.</description>
+      <author>hello@diogobronzesilva.com (Diogo Silva)</author>
+    </item>
+
+    <item>
+      <title>The Reign of Quantities</title>
+      <link>https://diogobronzesilva.com/notes/the-reign-of-quantities/</link>
+      <guid>https://diogobronzesilva.com/notes/the-reign-of-quantities/</guid>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <description>Quality asks for an artisan and time. Quantity asks for neither, which is exactly the trade we keep making.</description>
+      <author>hello@diogobronzesilva.com (Diogo Silva)</author>
+    </item>
+
+    <item>
+      <title>Efficiency, the One Ring to rule them all</title>
+      <link>https://diogobronzesilva.com/notes/efficiency-the-one-ring/</link>
+      <guid>https://diogobronzesilva.com/notes/efficiency-the-one-ring/</guid>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <description>Efficiency has no natural ceiling. Left to itself, it stops serving us and starts being served.</description>
+      <author>hello@diogobronzesilva.com (Diogo Silva)</author>
+    </item>
+
+  </channel>
+</rss>

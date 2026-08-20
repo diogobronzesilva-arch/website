@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- 1. Save this file as notes/your-slug/index.html (a real folder), so the
+     published URL is clean: diogobronzesilva.com/notes/your-slug/
+     Then change the title, the description, and everything marked below. -->
+<title>TITLE OF THE NOTE — Diogo Silva</title>
+<meta name="description" content="ONE SENTENCE ABOUT THIS NOTE.">
+<!-- Este molde nao deve ser indexado. Apaga a linha seguinte quando copiares o ficheiro. -->
+<meta name="robots" content="noindex">
+
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.ico" sizes="32x32">
+<link rel="icon" href="/assets/favicon-16.png" type="image/png" sizes="16x16">
+<link rel="icon" href="/assets/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+<link rel="alternate" type="application/rss+xml" title="Diogo Silva — Notes" href="/feed.xml">
+<meta property="og:title" content="TITLE OF THE NOTE — Diogo Silva">
+<meta property="og:description" content="ONE SENTENCE ABOUT THIS NOTE.">
+<meta property="og:type" content="article">
+<!-- Cartao de partilha. Gera um novo em assets/img/og/<slug>.jpg, 1200x630.
+     Se nao gerares, aponta para /assets/img/og/notes.jpg, que serve de reserva. -->
+<meta property="og:image" content="https://diogobronzesilva.com/assets/img/og/notes.jpg">
+<meta property="og:image:secure_url" content="https://diogobronzesilva.com/assets/img/og/notes.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="A note by Diogo Silva">
+<meta name="twitter:image" content="https://diogobronzesilva.com/assets/img/og/notes.jpg">
+<meta name="twitter:image:alt" content="A note by Diogo Silva">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,200..500;1,6..72,200..400&display=swap" rel="stylesheet">
+<!-- 1b. Add canonical + Open Graph + JSON-LD, following any published note as a model. -->
+<link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body>
+
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="masthead">
+  <div class="shell masthead__inner">
+    <a class="wordmark" href="/">Diogo Silva</a>
+    <nav class="nav" aria-label="Sections">
+      <a href="/">Home</a>
+      <a href="https://bronzeart.pt" target="_blank" rel="noopener">Photography &nearr;</a>
+      <a href="/notes/">Notes</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <article class="shell article">
+
+    <header class="article__head">
+      <!-- 2. Set both the machine date and the printed date. -->
+      <time class="article__date label" datetime="2026-01-01">1 Jan 2026</time>
+      <h1 class="article__title">Title of the note</h1>
+      <!-- Optional standfirst, for notes that have a one-line thesis. Delete if not needed. -->
+      <p class="standfirst">One line that states the argument.</p>
+    </header>
+
+    <!-- Optional ink device. Reuse one from /assets/img/notes/ or drop the figure. -->
+    <figure class="device">
+      <img src="/assets/img/notes/efficiency.svg" alt="" width="800" height="340">
+    </figure>
+
+    <!-- 3. Write here. Use <p>, <h2>, <blockquote>, <ul>, <hr>. -->
+    <div class="prose">
+      <p>First paragraph.</p>
+      <p>Second paragraph.</p>
+    </div>
+
+
+    <!-- Newsletter — replace the action URL with your own list (see README.md). -->
+    <form class="signup" action="https://buttondown.com/api/emails/embed-subscribe/bronze_da_silva" method="post" target="_blank">
+      <p class="signup__line">Occasional notes, straight to your inbox.</p>
+      <div class="signup__row">
+        <label class="skip" for="email">Email address</label>
+        <input id="email" type="email" name="email" placeholder="you@example.com" autocomplete="email" required>
+        <input type="hidden" name="embed" value="1">
+        <button type="submit">Subscribe</button>
+      </div>
+      <p class="signup__fine">No schedule, no marketing. Unsubscribe whenever.</p>
+    </form>
+    <!-- 4. Navegação entre notas. Apaga o "Newer" se esta for a nota mais recente,
+         e o "Older" se for a mais antiga. -->
+    <footer class="article__foot label">
+      <a href="/notes/SLUG-DA-NOTA-MAIS-RECENTE/">&larr; Newer</a>
+      <a href="/notes/">All notes</a>
+      <a href="/notes/SLUG-DA-NOTA-MAIS-ANTIGA/">Older &rarr;</a>
+    </footer>
+
+  </article>
+</main>
+
+<footer class="colophon">
+  <div class="shell colophon__inner label">
+    <span>Diogo Silva &middot; diogobronzesilva.com &middot; <a href="/feed.xml">RSS</a></span>
+    <span>Written by hand, between bedtimes.</span>
+  </div>
+</footer>
+
+</body>
+</html>

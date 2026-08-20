@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" role="img">
+  <circle cx="400" cy="120" r="62" fill="none" stroke="#191814" stroke-width="1.6"/>
+  <line x1="110" y1="232" x2="690" y2="232" stroke="#191814" stroke-width="2.6"/>
+  <line x1="130" y1="238" x2="120" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="158" y1="238" x2="148" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="186" y1="238" x2="176" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="214" y1="238" x2="204" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="242" y1="238" x2="232" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="270" y1="238" x2="260" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="298" y1="238" x2="288" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="326" y1="238" x2="316" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="354" y1="238" x2="344" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="382" y1="238" x2="372" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="410" y1="238" x2="400" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="438" y1="238" x2="428" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="466" y1="238" x2="456" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="494" y1="238" x2="484" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="522" y1="238" x2="512" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="550" y1="238" x2="540" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="578" y1="238" x2="568" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="606" y1="238" x2="596" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="634" y1="238" x2="624" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="662" y1="238" x2="652" y2="272" stroke="#191814" stroke-width="1"/>
+  <line x1="690" y1="238" x2="680" y2="272" stroke="#191814" stroke-width="1"/>
+</svg>

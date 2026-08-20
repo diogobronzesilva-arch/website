@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Uma <url> por pagina publicada, sempre com a URL limpa e barra no fim.
+     <lastmod> so muda quando o conteudo da pagina muda mesmo. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://diogobronzesilva.com/</loc><lastmod>2026-08-20</lastmod></url>
+  <url><loc>https://diogobronzesilva.com/notes/</loc><lastmod>2026-08-20</lastmod></url>
+  <url><loc>https://diogobronzesilva.com/contact/</loc><lastmod>2026-08-20</lastmod></url>
+  <url><loc>https://diogobronzesilva.com/notes/escassez-de-trabalhadores-qualificados/</loc><lastmod>2026-08-20</lastmod></url>
+  <url><loc>https://diogobronzesilva.com/notes/bitcoin-the-fairy-tale/</loc><lastmod>2026-08-20</lastmod></url>
+  <url><loc>https://diogobronzesilva.com/notes/panem-et-circenses/</loc><lastmod>2026-08-20</lastmod></url>
+  <url><loc>https://diogobronzesilva.com/notes/the-reign-of-quantities/</loc><lastmod>2026-08-20</lastmod></url>
+  <url><loc>https://diogobronzesilva.com/notes/efficiency-the-one-ring/</loc><lastmod>2026-08-20</lastmod></url>
+</urlset>
