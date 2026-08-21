@@ -29,4 +29,3 @@
     newsletter.addEventListener('submit', (event) => event.preventDefault());
   }
 })();
-

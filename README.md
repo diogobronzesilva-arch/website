@@ -32,4 +32,3 @@ Tema personalizado para reconstruir `bronzepodcast.com` em código, com o catál
 ## Estrutura
 
 O repositório guarda apenas código e configuração versionável. Produtos, encomendas, clientes e conteúdos permanecem na base de dados WordPress e nunca devem ser enviados para o GitHub.
-

@@ -20,4 +20,3 @@
 		<a class="text-link" href="<?php the_permalink(); ?>"><?php esc_html_e( 'Ler artigo', 'bronzepodcast' ); ?> →</a>
 	</div>
 </article>
-

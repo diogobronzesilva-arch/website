@@ -151,4 +151,3 @@ function bronzepodcast_wrapper_start() {
 function bronzepodcast_wrapper_end() {
 	echo '</div></main>';
 }
-
